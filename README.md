@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Igor Rabelo Silva
 
-<!--
-**IgorRabeloSilva/IgorRabeloSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🔭 Atualmente estou estudando Ciências da Computação.
+- 🌱 Estou aprendendo **HTML**, **CSS**, **C**, **Java Script**, **Java** e **SQL**  
+- 👯 Procuro colaborar em projetos **open source** e iniciativas de **tecnologia educacional**    
+- 📫 Como me encontrar: [LinkedIn][(https://linkedin.com/in/seuusuario) | [Email](igorrabelo2022@outlook.com)  
+- ⚡ Curiosidade: adoro resolver problemas com código, explorar novas tecnologias e Games, traduzindo **MUITO NERD** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript,  
+- **Banco de Dados:** SQL 
+- **Ferramentas:** Git, GitHub 
+
